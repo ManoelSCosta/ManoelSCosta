@@ -12,9 +12,15 @@ Gif hello world.
     My name is Manoel Costa <img src= "https://github.com/ManoelSCosta/ManoelSCosta/blob/b240afb37dcf7dc92aa0238a307d36c5d121ba37/assets/wave.gif" width="90px">
     
 <br><r>
+    <p>
     I currently work as a java developer. :man_technologist: 
+    </p>
+    <p>
     I'm learning to make a REST API with spring boot.:leaves: 
+    </p>
+    <p>
     I'm working on a migration system from forms to java. 🤓
+    </p>
 <br><br>
 
 </samp>
