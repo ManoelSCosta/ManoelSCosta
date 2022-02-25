@@ -2,7 +2,7 @@
 Gif hello world.
 -->
 <p align="center">
-    <img src="https://media.giphy.com/media/lcs5BL0NIM4WMv61a9/giphy.gif" width="170px">
+    <img src="https://media.giphy.com/media/lcs5BL0NIM4WMv61a9/giphy.gif" width="100px">
     <br><br>
 
 
