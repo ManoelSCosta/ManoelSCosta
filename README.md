@@ -2,14 +2,14 @@
 Gif hello world.
 -->
 <p align="center">
-    <img src="https://media.giphy.com/media/lcs5BL0NIM4WMv61a9/giphy.gif" width="100px">
+    <img src="https://media.giphy.com/media/lcs5BL0NIM4WMv61a9/giphy.gif" width="170px">
     <br><br>
 
 
 <!-- Frases iniciais -->
 
 <samp>
-    My name is Manoel Costa <img src= "https://github.com/ManoelSCosta/ManoelSCosta/blob/b240afb37dcf7dc92aa0238a307d36c5d121ba37/assets/wave.gif">
+    My name is Manoel Costa <img src= "https://github.com/ManoelSCosta/ManoelSCosta/blob/b240afb37dcf7dc92aa0238a307d36c5d121ba37/assets/wave.gif" width="90px">
     
 <br><r>
     I currently work as a java developer. :man_technologist: 
