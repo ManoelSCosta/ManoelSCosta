@@ -1,4 +1,20 @@
-### Hi there 👋
+<!--
+Gif hello world.
+-->
+<p align="center">
+    <img src="https://media.giphy.com/media/lcs5BL0NIM4WMv61a9/giphy.gif" width="170px">
+    <br><br>
+
+
+    <!-- 
+    Frases iniciais 
+    -->
+
+    <samp>
+        My name is Manoel Costa <img src= "">
+    </samp>
+
+</p>
 
 <!--
 **ManoelSCosta/ManoelSCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
