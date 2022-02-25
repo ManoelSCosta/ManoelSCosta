@@ -11,11 +11,12 @@ Gif hello world.
 <samp>
     My name is Manoel Costa <img src= "https://github.com/ManoelSCosta/ManoelSCosta/blob/b240afb37dcf7dc92aa0238a307d36c5d121ba37/assets/wave.gif">
     
-    <br><r>
+<br><r>
     I currently work as a java developer. :man_technologist: 
     I'm learning to make a REST API with spring boot.:leaves: 
     I'm working on a migration system from forms to java. 🤓
-    <br><br>
+<br><br>
+
 </samp>
 
 </p>
