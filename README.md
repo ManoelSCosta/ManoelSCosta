@@ -1,5 +1,5 @@
 <!-- Gif hello world. -->
-<p align="center" style="background-image: url(https://images.unsplash.com/photo148859052850598d2b5aba04bixlib=rb4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80); background-size: cover;">
+<p align="center">
     <br><br>
     <samp>
         Olá, sou o Manoel Costa! 👋
@@ -29,13 +29,12 @@
         🔗 Veja meus projetos no Github: [Meu Github](https://github.com/ManoelSCosta)
         <h3 align="center">Linguagens e Ferramentas:<h3>
         <p align="center">
-        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="40px"> Java
-        <img src="https://img.icons8.com/color/48/000000/python.png" width="40px"> Python
-        <img src="https://img.icons8.com/color/48/000000/react-native.png" width="40px"> React.js
-        <img src="https://img.icons8.com/color/48/000000/sql.png" width="40px"> SQL
-        <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" width="40px"> Oracle
-        <img src="https://img.icons8.com/color/48/000000/linux.png" width="40px"> Linux    
+            <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40px"> Java
+            <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40px"> Python
+            <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" width="40px"> React.js
+            <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40px"> SQL
+            <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle" width="40px"> Oracle
+            <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40px"> Linux    
         </p>
-        <br><br>
     </samp>
 </p>
