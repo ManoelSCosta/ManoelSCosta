@@ -26,7 +26,7 @@
         <br>
         🔗 Confira meu perfil no Linkedin: [Manoel Silva Costa](https://www.linkedin.com/in/manoel-silva-costa-04065a147/)
         <br>
-        🔗 Veja meus projetos no Github: [Meu Github](https://github.com/SeuUsuario)
+        🔗 Veja meus projetos no Github: [Meu Github](https://github.com/ManoelSCosta)
         <h3 align="center">Linguagens e Ferramentas:<h3>
         <p align="center">
         <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="40px"> Java
