@@ -32,11 +32,9 @@
 
 ### 📈 Estatísticas do GitHub
 <p align="center">
-  
   ![Dados de Commit](https://github-readme-stats.vercel.app/api?username=ManoelSCosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoelSCosta&layout=compact&langs_count=7&theme=dark"/>
- 
-</p>
+  ![Dados de Linguagem](https://github-readme-stats.vercel.app/api/top-langs/?username=ManoelSCosta&layout=compact&langs_count=7&theme=dark)
+ </p>
 
 ---
 
