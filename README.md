@@ -1,5 +1,7 @@
 <p align="center">
+  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=54A2FF&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+o+Manoel+Costa!👋;Desenvolvedor+Java+Backend🚀" alt="Typing SVG" />
+  
 </p>
 
 ---
@@ -42,7 +44,7 @@
 ### 📈 Estatísticas do GitHub
 <p aling=center>
   
-![Dados de Commit](https://github-readme-stats.vercel.app/api?username=ManoelSCosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true)  
+![Dados de Commit](https://github-readme-stats.vercel.app/api?username=ManoelSCosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 ![Top linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ManoelSCosta&theme=dark)
 
