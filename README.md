@@ -1,13 +1,11 @@
 <p align="center">
-  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=54A2FF&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+o+Manoel+Costa!👋;Desenvolvedor+Java+Backend🚀" alt="Typing SVG" />
-  
 </p>
 
 ---
 
 ### 👨‍💻 Sobre Mim
-- 🔭 Atualmente trabalhando como **Desenvolvedor Java Backend** na DBASuporte
+- 🔭 Atualmente trabalhando como **Desenvolvedor Java Backend** na **DBASuporte**
 - 🌱 Estudando **Arquitetura de Microsserviços e React.js**
 - 📚 Interesses: **Backend, APIs REST, Linux, Cloud Computing**
 - 🎯 Objetivo: Tornar-me **Engenheiro de Software Full Cycle**
@@ -27,8 +25,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![JasperReports](https://img.shields.io/badge/JasperReports-FF7800?style=for-the-badge)
-![iText](https://img.shields.io/badge/iText-FF0000?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Ferramentas:**
@@ -42,20 +38,17 @@
 ---
 
 ### 📈 Estatísticas do GitHub
-<p aling=center>
-  
-![Dados de Commit](https://github-readme-stats.vercel.app/api?username=ManoelSCosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
-![Top linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ManoelSCosta&theme=dark)
-
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManoelSCosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoelSCosta&layout=compact&theme=dark" />
 </p>
-
-
-
 
 ---
 
 ### 📬 Contato
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:costamanoelsc@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoel-silva-costa-04065a147/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ManoelSCosta)
+<p align="left">
+<a href="mailto:costamanoelsc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/manoel-silva-costa-04065a147/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/ManoelSCosta"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
