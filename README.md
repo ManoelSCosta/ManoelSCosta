@@ -1,20 +1,37 @@
 <h1>
-  Hi. I'm Manoel Costa <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
+  Hi/Olá. I'm Manoel Costa <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 </h1>
 
 ---
 
-### 👨‍💻 Sobre Mim
-- 🔭 Atualmente trabalhando como **Desenvolvedor Java Backend** na **DBASuporte**
-- 🌱 Estudando **Arquitetura de Microsserviços e React.js**
-- 📚 Interesses: **Backend, APIs REST, Linux, Cloud Computing**
-- 🎯 Objetivo: Tornar-me **Engenheiro de Software Full Cycle**
-- 🎸 Hobbies: Música, leitura e pedalar pela cidade
+<details open>
+  <summary>🇺🇸 <b>Read in English</b></summary>
+  <br />
+  
+  ### 👨‍💻 About Me
+  - 🔭 Currently working as a **Java Backend Developer** at **DBASuporte**
+  - 🌱 Studying **Microservices Architecture and React.js**
+  - 📚 Interests: **Backend, REST APIs, Linux, Cloud Computing**
+  - 🎯 Goal: To become a **Full Cycle Software Engineer**
+  - 🎸 Hobbies: Music, reading, and cycling around the city
+</details>
+
+<details>
+  <summary>🇧🇷 <b>Leia em Português</b></summary>
+  <br />
+  
+  ### 👨‍💻 Sobre Mim
+  - 🔭 Atualmente trabalhando como **Desenvolvedor Java Backend** na **DBASuporte**
+  - 🌱 Estudando **Arquitetura de Microsserviços e React.js**
+  - 📚 Interesses: **Backend, APIs REST, Linux, Cloud Computing**
+  - 🎯 Objetivo: Tornar-me **Engenheiro de Software Full Cycle**
+  - 🎸 Hobbies: Música, leitura e pedalar pela cidade
+</details>
 
 ---
 
 ### 🛠 Tech Stack
-**Principais Tecnologias:**
+**Core Technologies:**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -27,7 +44,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Ferramentas:**
+**Tools:**
 
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -47,7 +64,7 @@
 
 ---
 
-### 📬 Contato
+### 📬 Reach Me / Contato
 <p align="left">
 <a href="mailto:costamanoelsc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/manoel-silva-costa-04065a147/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
