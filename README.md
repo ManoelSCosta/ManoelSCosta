@@ -40,8 +40,12 @@
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManoelSCosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoelSCosta&layout=compact&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManoelSCosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoelSCosta&layout=compact&theme=dracula&hide_langs=html,css" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManoelSCosta&theme=dracula" />
 </p>
 
 ---
