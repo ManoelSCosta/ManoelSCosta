@@ -5,7 +5,7 @@
 ---
 
 ### 👨‍💻 Sobre Mim
--  telescope: Atualmente trabalhando como **Desenvolvedor Java Backend** na **DBASuporte**
+- 🔭 Atualmente trabalhando como **Desenvolvedor Java Backend** na **DBASuporte**
 - 🌱 Estudando **Arquitetura de Microsserviços e React.js**
 - 📚 Interesses: **Backend, APIs REST, Linux, Cloud Computing**
 - 🎯 Objetivo: Tornar-me **Engenheiro de Software Full Cycle**
@@ -37,16 +37,13 @@
 
 ---
 
-### 📈 Estatísticas do GitHub
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManoelSCosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManoelSCosta&layout=compact&langs_count=7&theme=dracula&hide=html,css" />
-  </a>
-</p>
+ [![Manoel's github stats](https://github-readme-stats.vercel.app/api?username=ManoelSCosta&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+ 
+ [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManoelSCosta&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+[![Manoel Costa's current streak](https://github-readme-streak-stats.herokuapp.com/?user=ManoelSCosta&theme=blue-green&title_color=00b3ff)](#)
 
 ---
 
@@ -55,4 +52,8 @@
 <a href="mailto:costamanoelsc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/manoel-silva-costa-04065a147/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/ManoelSCosta"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
