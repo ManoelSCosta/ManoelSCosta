@@ -39,11 +39,11 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
- [![Manoel's github stats](https://github-readme-stats.vercel.app/api?username=ManoelSCosta&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+ [![Manoel's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ManoelSCosta&show_icons=true&count_private=true&theme=blue-green&title_color=00b3ff&icon_color=00b3ff)](https://github.com/anuraghazra/github-readme-stats)
  
- [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManoelSCosta&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+ [![Top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ManoelSCosta&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Manoel Costa's current streak](https://github-readme-streak-stats.herokuapp.com/?user=ManoelSCosta&theme=blue-green&title_color=00b3ff)](#)
+[![Manoel Costa's current streak](https://streak-stats.demolab.com/?user=ManoelSCosta&theme=blue-green&title_color=00b3ff&background=0d1117)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ---
 
@@ -55,5 +55,5 @@
 </p>
 
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
