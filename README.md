@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=54A2FF&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+o+Manoel+Costa!👋;Desenvolvedor+Java+Backend🚀" alt="Typing SVG" />
-</p>
+<h1>
+  Hi. I'm Manoel Costa <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
+</h1>
 
 ---
 
