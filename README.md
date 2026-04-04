@@ -5,7 +5,7 @@
 ---
 
 ### 👨‍💻 Sobre Mim
-- 🔭 Atualmente trabalhando como **Desenvolvedor Java Backend** na **DBASuporte**
+-  telescope: Atualmente trabalhando como **Desenvolvedor Java Backend** na **DBASuporte**
 - 🌱 Estudando **Arquitetura de Microsserviços e React.js**
 - 📚 Interesses: **Backend, APIs REST, Linux, Cloud Computing**
 - 🎯 Objetivo: Tornar-me **Engenheiro de Software Full Cycle**
@@ -37,15 +37,17 @@
 
 ---
 
-### 📈 Minhas Estatísticas
+### 📈 Estatísticas do GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManoelSCosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do Manoel" />
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManoelSCosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManoelSCosta&layout=compact&langs_count=7&theme=dracula&hide=html,css" />
+  </a>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoelSCosta&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
-</p>
 ---
 
 ### 📬 Contato
